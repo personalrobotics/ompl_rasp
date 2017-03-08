@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>ompl_rasp</name>
+    <version>0.1.0</version>
+    <description>RASP (Risk-Aware Shortest Path)</description>
+    <author email="anon@example.com">anon</author>
+    <maintainer email="anon@example.com"></maintainer>
+    <license>BSD</license>
+    <buildtool_depend>catkin</buildtool_depend>
+    <depend>ompl</depend>
+</package>
